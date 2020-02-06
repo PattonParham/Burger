@@ -1,3 +1,20 @@
+body{
+
+    background-color: tan;
+}
+.burgdevd{
+width: 300px;
+
+}
+.burgnot{
+    width: 300px;
+}
+
+.burgpic{
+    width: 300px;
+    height: 300px;
+}
+
 li {
     padding: 5px;
     margin: 5px;

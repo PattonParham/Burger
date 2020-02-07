@@ -1,0 +1,29 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "An application specifically focusing in handlebars, orm, and organization of the different functioning components of a webpage (dbs, controllers, configs, views(handlebars), static content(\"public\" js, css)) and node.js.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql2": "^2.1.0",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7",
+    "sequelize": "^5.21.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PattonParham/Burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PattonParham/Burger/issues"
+  },
+  "homepage": "https://github.com/PattonParham/Burger#readme"
+}
